@@ -3,6 +3,17 @@ Designed and implemented a smart home automation system using AWS IoT services.
 Integrated various IoT devices for real-time monitoring and control of home appliances.
 Implemented MQTT protocol for secure and reliable communication between devices.
 Programmed ESP32 devices to control and monitor home appliances via Wi-Fi connectivity.
+Hardware Required:
+ESP32 Wifi Module
+4 Channel Relay
+Jumper Wires
+Bulbs
+PCB
+Software Requirements:
+Arduino IDE
+
+
+
 
 STEPS:
 After successfully signing in, the AWS Management Console window will open. In the services search tab at the top right ‘IoT core’ & hit enter.
