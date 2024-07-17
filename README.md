@@ -54,6 +54,8 @@ Also, download the public key and rename it as a public key. Then download the p
 
 In the Root CA Certificates, there are two certificates here. But we just need a Root CA1 certificate, so download it as well.
 
-
-
 So we have downloaded all the certificates that we need for our project.
+
+The Source Code/Program for Home automation using Amazon AWS IoT Core & ESP32 is written in Arduino IDE. Before moving to the code part, we need to install few libraries to the Arduino IDE. Download the PubSubClient Library and add it to the Arduino IDE library folder.
+
+Here is the complete code for the project that requires a lot of modifications. Copy it and paste it to your Arduino IDE.
